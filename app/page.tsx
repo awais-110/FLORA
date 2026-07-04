@@ -23,7 +23,7 @@ export default async function Home() {
         <Hero slides={heroSlides} />
         <Countdown />
         <CollectionTiles />
-        <BrandStory />
+        
         <ProductSections products={products} />
         <Reviews />
         <ContactForm />
